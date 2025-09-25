@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>c7033a3a-0299-4f7b-8035-7282396c14ae</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>IKPpe25.py</StartupFile>
+    <StartupFile>Teema1(lin_prog).py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,6 +22,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="IKPpe25.py" />
+    <Compile Include="Teema1%28lin_prog%29.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
