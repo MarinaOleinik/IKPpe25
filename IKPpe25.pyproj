@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>c7033a3a-0299-4f7b-8035-7282396c14ae</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Teema2(Valikud).py</StartupFile>
+    <StartupFile>Teema3(Kordused).py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,8 +22,10 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="IKPpe25.py" />
+    <Compile Include="Sirakus.py" />
     <Compile Include="Teema1%28lin_prog%29.py" />
     <Compile Include="Teema2%28Valikud%29.py" />
+    <Compile Include="Teema3%28Kordused%29.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
