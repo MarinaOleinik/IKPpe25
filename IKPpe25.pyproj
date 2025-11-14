@@ -27,6 +27,7 @@
     <Compile Include="Teema2%28Valikud%29.py" />
     <Compile Include="Teema3%28Kordused%29.py" />
     <Compile Include="Teema4%28List%29.py" />
+    <Compile Include="Too_4_1.py" />
     <Compile Include="vigade_otsing_vale_3.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
