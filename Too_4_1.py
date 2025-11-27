@@ -1,3 +1,12 @@
+
+
+
+
+
+
+init(autoreset=True)
+print(Fore.GREEN + "=== Töö 4.3 ===")
+
 # 1 Sisesta sõna või lause.
 # Loenda:
 #     mitu täishäälikut 
