@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>c7033a3a-0299-4f7b-8035-7282396c14ae</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Too_4_3.py</StartupFile>
+    <StartupFile>Teema_5(Def)_Python_fail.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -27,6 +27,8 @@
     <Compile Include="Teema2%28Valikud%29.py" />
     <Compile Include="Teema3%28Kordused%29.py" />
     <Compile Include="Teema4%28List%29.py" />
+    <Compile Include="Teema5Moodul.py" />
+    <Compile Include="Teema_5%28Def%29_Python_fail.py" />
     <Compile Include="Too_4_1.py" />
     <Compile Include="Too_4_3.py" />
     <Compile Include="vigade_otsing_vale_3.py" />
