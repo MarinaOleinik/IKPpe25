@@ -1,3 +1,4 @@
+# Andmetüübi kontroll
 def kontroll_int(väärtus:any)->bool:
     """Kontrollib, kas antud väärtus on täisarv.
     :param any väärtus: Suvaline väärtus.
