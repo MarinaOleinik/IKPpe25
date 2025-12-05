@@ -29,7 +29,7 @@
     <Compile Include="Teema3%28Kordused%29.py" />
     <Compile Include="Teema4%28List%29.py" />
     <Compile Include="Teema5Moodul.py" />
-    <Compile Include="Teema_5%28Def%29_Python_fail.py" />
+    <Compile Include="Teema_5_Python_fail.py" />
     <Compile Include="Too_4_1.py" />
     <Compile Include="Too_4_3.py" />
     <Compile Include="vigade_otsing_vale_3.py" />
