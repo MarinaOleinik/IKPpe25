@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>c7033a3a-0299-4f7b-8035-7282396c14ae</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Kontroll.py</StartupFile>
+    <StartupFile>Email.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,6 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Email.py" />
     <Compile Include="IKPpe25.py" />
     <Compile Include="Kontroll.py" />
     <Compile Include="Sirakus.py" />

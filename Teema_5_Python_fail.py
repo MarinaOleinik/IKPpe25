@@ -1,6 +1,8 @@
 from Teema5Moodul import *
+from os import *
 #1
 for x in range(6): 
+
     arv1=float(input("Sisesta esimene arv: "))
     arv2=float(input("Sisesta teine arv: "))
     tehe=input("Sisesta tehe (+ - * /): ")

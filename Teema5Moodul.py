@@ -9,9 +9,6 @@ def kontroll_int(väärtus:any)->bool:
         return True
     except:
         return False
-
-
-
 #1
 # Kirjuta funktsioon arithmetic, mis võtab 3 argumenti: 
 # esimesed 2 on arvud, kolmas on tehe, mis nende vahel tuleb teha. 
